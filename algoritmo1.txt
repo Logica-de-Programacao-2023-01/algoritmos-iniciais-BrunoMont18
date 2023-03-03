@@ -1,0 +1,4 @@
+1 Leia dois números 
+2 Faça a soma destes dois numeros
+3 Escreva o resultado da soma dos dois números anteriores
+4. Fim
