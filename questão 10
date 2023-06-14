@@ -1,0 +1,10 @@
+leia numeros
+leia pesos
+soma = 0
+pesos = 0
+para cada numeros, faça:
+   soma = soma + (numeros * pesos)
+para cada pesos, faça:
+ pesos = pesos + soma
+media= numeros / pesos
+escreva media
